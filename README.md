@@ -2,7 +2,7 @@
 
 html file: https://github.com/Yuvresh-Gavale/task20/blob/main/index.html
 <br>
-css file: 
+css file: https://github.com/Yuvresh-Gavale/task20/blob/main/style.css
 <br>
 js file: https://github.com/Yuvresh-Gavale/task20/blob/main/script.js
 # Clone the repo

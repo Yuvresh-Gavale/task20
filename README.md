@@ -4,7 +4,7 @@ html file: https://github.com/Yuvresh-Gavale/task20/blob/main/index.html
 <br>
 css file: 
 <br>
-js file: 
+js file: https://github.com/Yuvresh-Gavale/task20/blob/main/script.js
 # Clone the repo
 git clone: https://github.com/Yuvresh-Gavale/task20/edit/main/README.md
 <br>
